@@ -1,0 +1,181 @@
+*
+{
+	margin: 0px;
+	border-size
+}
+.navbar-custom
+{
+	background-color:#282e3e;
+	border-radius: 0px;
+	padding: 10px;
+	margin-bottom: 0px;
+	border: 0px;
+	color: white;
+}
+.navbar-custom .navbar-nav>li>a
+{
+	color: white ;
+	font-size: 19px;
+	margin-left: 13px;
+}
+.navbar-custom .navbar-nav>.active>a
+{
+ color: white ;
+ background-color: #82c434 ;
+}
+.navbar-custom .navbar-nav>li>a:hover
+{
+	background-color: #82c434;
+	color: white;
+}
+.navbar-custom .navbar-nav>li>a:
+{
+	color: white;
+}
+.navbar-custom .navbar-brand
+{
+	color: white;
+	font-size: 27px;
+	margin-left: 15px;
+}
+.navbar-custom .navbar-brand:hover
+{
+	color: white;
+}
+.navbar-custom .navbar-nav
+{
+	float: right;
+}
+
+/*---- end of nav----*/
+
+.slider
+{
+	width: 100%;
+	padding: 0px;
+	margin:0px;
+}
+.img-size
+{
+	max-height:550px !important;
+	width: 100% !important;
+}
+.text-on-image
+{
+	color: white;
+	position: absolute;
+	top: 35%;
+	left: -20px;
+	
+}
+b
+{
+	font-size:5vw;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color:red;
+}
+
+/*--- end of slidere---*/
+.services
+{
+	font-size: 4vw;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: red;
+}
+
+.first-service
+{
+	border: 1px solid grey;
+	min-height: 350px;
+}
+.icons
+{
+	font-size: 60px;
+	width: 130px;
+	background-color: #d9d9d9;
+	padding: 5px 10px;
+	height: 110px;
+	margin-top: -50px;
+	color: #82c434;
+}
+.but2
+{
+	background-color: #82c434;
+	border-color: #82c434;
+}
+
+
+
+.about
+{
+	background-color: #282e3e;
+	margin-top: 50px;
+	min-height: 600px;
+}
+.about-company
+{
+	font-size: 4vw;
+	border-bottom-style: ridge;
+	border-bottom-color: red;
+	font-weight: bold;
+	position: relative;
+	top: 35px;
+	color: white;
+
+}
+
+
+
+.our-team
+{
+	font-size:4vw ;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: red;
+}
+.team-member
+{
+	text-align: center;
+	margin-top: 50px;
+	border: 1px solid red;
+	border-radius: 5px;
+}
+.icon i
+{
+ font-size: 20px;
+ height: 50px;
+ width: 50px;
+ background-color: #98e698;
+ padding: 18px;
+ border-radius: 50%;
+}
+.icon i:hover
+{
+	background-color: #46d462;
+}
+
+
+
+
+.footer
+{
+  background: #333333;
+  color: white;
+  margin:10px 0px;
+  padding: 10px 0px;
+
+}
+.footer ul
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+.footer ul li a
+{
+  color: white;
+  font-size: 15px;
+}
